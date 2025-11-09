@@ -16,13 +16,15 @@ This Power BI project analyzes sales conversion rates across multiple dimensions
 
 # Tools & Technologies:
 
-1. Power BI Desktop
+1. Python (EDA)
+   
+2. Power BI Desktop
 
-2. DAX (Data Analysis Expressions)
+3. DAX (Data Analysis Expressions)
 
-3. Power Query
+4. Power Query
 
-4. Excel / CSV Sales Dataset
+5. Excel / CSV Sales Dataset
 
 # Key Features:
 
